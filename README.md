@@ -5,3 +5,7 @@
 - 💬 Ask me about Fallout
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SporkyDevelops&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Some photos
+
+![@Sporkyo](https://github.com/user-attachments/assets/36568d00-ef58-46eb-a70f-243b6e5842b7)
