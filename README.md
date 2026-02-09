@@ -8,4 +8,5 @@
 
 ## Some photos
 
-![@Sporkyo](https://github.com/user-attachments/assets/36568d00-ef58-46eb-a70f-243b6e5842b7)
+<!--@Sporkyo-->
+<p align="center"> <img src="https://github.com/user-attachments/assets/36568d00-ef58-46eb-a70f-243b6e5842b7" width="50%"> </p>
